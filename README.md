@@ -18,7 +18,7 @@ Question 7 - Sharing your Assignment Notebook - 2 Points
 
 
 
-Every screenshot is answer in this way:
+Answers:
 
 Question 1 -> q1.png
 
